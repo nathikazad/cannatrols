@@ -4,9 +4,6 @@
 [submodule "hardware"]
 	path = hardware
 	url = git@github.com:nathikazad/cannatrols-hardware.git
-[submodule "heroku"]
-	path = heroku
-	url = git@github.com:nathikazad/cannatrols-heroku.git
 [submodule "supabase"]
 	path = supabase
 	url = git@github.com:nathikazad/cannatrols-supabase.git
