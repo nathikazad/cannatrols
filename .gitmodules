@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:nathikazad/cannatrols-server.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:nathikazad/cannatrols-mobile.git
+[submodule "hardware"]
+	path = hardware
+	url = git@github.com:nathikazad/cannatrols-hardware.git
